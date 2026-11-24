@@ -1,0 +1,34 @@
+# Secretos y configuración local
+.env
+.env.*
+*.pem
+*.key
+.claude/settings.local.json
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+.terraform.lock.hcl.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+mlruns/
+
+# Node
+node_modules/
+
+# Datos generados (van a S3, no al repositorio)
+data/raw/
+data/curated/
+*.parquet
+
+# Sistema
+.DS_Store
+Thumbs.db
