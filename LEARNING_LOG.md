@@ -5,7 +5,6 @@ Reviewers and the committee read this file to see which week you're on.
 
 ## Template
 
-```
 ## Semana 01 · 2026-11-23 · Scalability vs. Elasticity
 
 **What I learned:**
@@ -30,7 +29,6 @@ Reviewers and the committee read this file to see which week you're on.
 - Queue backlog math: 2
 
 **Actual hours:** 2
-```
 
 ---
 
